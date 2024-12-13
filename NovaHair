@@ -1202,17 +1202,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="menu-drawer__navigation-container">
           <nav class="menu-drawer__navigation">
             <ul class="menu-drawer__menu has-submenu list-menu" role="list"><li><a href="/" class="menu-drawer__menu-item list-menu__item link link--text focus-inset">
-                      Home
+                      
                     </a></li><li><a href="/products/shampoo-de-tintura-instantanea-novahair" class="menu-drawer__menu-item list-menu__item link link--text focus-inset menu-drawer__menu-item--active" aria-current="page">
-                      NovaHair™ Shampoo
+                      
                     </a></li><li><a href="/products/mascara-biologica-de-colageno-profundo-novamask" class="menu-drawer__menu-item list-menu__item link link--text focus-inset">
-                      NovaHair™ Mask
+                     
                     </a></li><li><a href="/pages/conheca-a-novahair" class="menu-drawer__menu-item list-menu__item link link--text focus-inset">
-                      Conheça a NovaHair™
+                     
                     </a></li><li><a href="/pages/rastrear-pedido" class="menu-drawer__menu-item list-menu__item link link--text focus-inset">
-                      Rastrear Pedido
+                      
                     </a></li><li><a href="/pages/contato" class="menu-drawer__menu-item list-menu__item link link--text focus-inset">
-                      Contate-nos
+                    
                     </a></li></ul>
           </nav>
 <!--                 start secondary nav -->
@@ -1236,13 +1236,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   </a></li><li><a href="/products/shampoo-de-tintura-instantanea-novahair" class="header__menu-item header__menu-item--main list-menu__item link link--text focus-inset" aria-current="page">
                     <span>NovaHair™ Shampoo</span>
                   </a></li><li><a href="/products/mascara-biologica-de-colageno-profundo-novamask" class="header__menu-item header__menu-item--main list-menu__item link link--text focus-inset">
-                    <span>NovaHair™ Mask</span>
+                    <span></span>
                   </a></li><li><a href="/pages/conheca-a-novahair" class="header__menu-item header__menu-item--main list-menu__item link link--text focus-inset">
-                    <span>Conheça a NovaHair™</span>
+                    <span>™</span>
                   </a></li><li><a href="/pages/rastrear-pedido" class="header__menu-item header__menu-item--main list-menu__item link link--text focus-inset">
-                    <span>Rastrear Pedido</span>
+                    <span></span>
                   </a></li><li><a href="/pages/contato" class="header__menu-item header__menu-item--main list-menu__item link link--text focus-inset">
-                    <span>Contate-nos</span>
+                    <span></span>
                   </a></li></ul>
         </nav>
       
@@ -3692,7 +3692,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                               href="/pages/conheca-a-novahair"
                               class="link link--text list-menu__item list-menu__item--link"
                             >
-                              Conheça a NovaHair™
+                              
                             </a>
                           </li><li>
                             <a
